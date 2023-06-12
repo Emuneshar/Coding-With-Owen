@@ -10,3 +10,16 @@ print("Thank you for using the Bank of Blooket!, Your options are:\n",
 
 choice = input("Which one would you like to do?")
 
+if choice == "open an account":
+    print("Thank you for opening an account")
+if choice == "withdraw toast":
+    print("How much toast would you like?")
+
+# use either an if then OR a Match case for the homework
+
+match choice:
+    case "open an account":
+        print("Thanks for opening an account with bank of toast!")
+    case "withdraw money":
+        print("how much would you like to withdraw?")
+    
