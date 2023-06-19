@@ -14,4 +14,8 @@ class User:
     def getFirstName(self):
         return self.firstName
     
+    def setFirstName(self, newFirstName):
+        self.firstName = newFirstName
+
     
+
