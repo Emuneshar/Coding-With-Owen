@@ -17,5 +17,10 @@ class User:
     def setFirstName(self, newFirstName):
         self.firstName = newFirstName
 
+    def getLastName(self):
+        return self.lastName
     
+    def setLastName(self, newLastName):
+        self.lastName = newLastName
 
+    
