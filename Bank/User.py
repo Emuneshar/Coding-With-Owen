@@ -11,4 +11,7 @@ class User:
 
     # Getters and Setters
 
+    def getFirstName(self):
+        return self.firstName
+    
     
