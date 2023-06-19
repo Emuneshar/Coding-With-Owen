@@ -1,4 +1,4 @@
-import User.py
+import User
 
 print("Welcome to the Bank of Blooket!")
 
