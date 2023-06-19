@@ -23,4 +23,32 @@ class User:
     def setLastName(self, newLastName):
         self.lastName = newLastName
 
+    def getUserName(self):
+        return self.username
+    
+    def setUserName(self, newUsername):
+        self.username = newUsername
+
+    def getPassword(self):
+        return self.password
+    
+    def setPassword(self, newPassword):
+        self.password = newPassword
+
+    def getAccountNumber(self):
+        return self.accountNumber
+    
+    def setAccountNumber(self, newAccountNumber):
+        self.accountNumber = newAccountNumber
+
+    def getAccountBalance(self):
+        return self.accountBalance
+    
+    def setAccountBalance(self, newAccountBalance):
+        self.accountBalance = newAccountBalance
+
+    
+
+    
+
     
