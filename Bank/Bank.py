@@ -1,5 +1,19 @@
 print("Welcome to the Bank of Blooket!")
 
+
+# Python Data Types
+
+# 
+
+
+
+
+
+
+
+
+
+
 print("Thank you for using the Bank of Blooket!, Your options are:\n",
         "1. Open an account\n",
         "2. Withdraw Money from bank\n",
@@ -19,7 +33,7 @@ if choice == "withdraw toast":
 
 match choice:
     case 1:
-        print("Thanks for opening an account with bank of toast!")
+        print("Thanks for opening an account with The Bank of Blooket")
     case 2:
         print("how much would you like to withdraw?")
     
