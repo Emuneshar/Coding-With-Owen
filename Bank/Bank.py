@@ -1,5 +1,4 @@
-import User
-
+from User import User
 print("Welcome to the Bank of Blooket!")
 
 
@@ -12,6 +11,7 @@ print("Thank you for using the Bank of Blooket!, Your options are:\n",
      )
 
 Bob = User("Bob", "Nugget", "BNugget", "chicken52", 1234658, 5)
+print(Bob.getFirstName())
 
 choice = int(input("Which one would you like to do?"))
 
