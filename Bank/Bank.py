@@ -3,11 +3,20 @@ print("Welcome to the Bank of Blooket!")
 
 # Python Data Types
 
-# 
+# Strings - words/sentences
+# Booleans - True or False
+# Floats - Numbers with decimals
+# Int - Numbers without decimals
+# User - Name, Bankaccount Number, Balance, Deposit, Withdraw, 
 
 
 
 
+
+# Level 0 - Scratch
+# Level 1 - Python, Java, (HTML, CSS, Javascript), SQL
+# Level 2 - C, C++, C#, LISP
+# Level 3 - MIPS, Machine Language, Assembly
 
 
 
