@@ -8,7 +8,7 @@ print("Thank you for using the Bank of Blooket!, Your options are:\n",
         "5. Close Account\n"
      )
 
-choice = input("Which one would you like to do?")
+choice = int(input("Which one would you like to do?"))
 
 if choice == "open an account":
     print("Thank you for opening an account")
@@ -18,8 +18,8 @@ if choice == "withdraw toast":
 # use either an if then OR a Match case for the homework
 
 match choice:
-    case "open an account":
+    case 1:
         print("Thanks for opening an account with bank of toast!")
-    case "withdraw money":
+    case 2:
         print("how much would you like to withdraw?")
     
